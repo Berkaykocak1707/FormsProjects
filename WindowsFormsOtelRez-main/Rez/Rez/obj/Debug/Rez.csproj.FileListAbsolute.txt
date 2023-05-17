@@ -1,0 +1,22 @@
+C:\Yazılım Ders\Ders9\Rez\Rez\bin\Debug\Rez.exe.config
+C:\Yazılım Ders\Ders9\Rez\Rez\bin\Debug\Rez.exe
+C:\Yazılım Ders\Ders9\Rez\Rez\bin\Debug\Rez.pdb
+C:\Yazılım Ders\Ders9\Rez\Rez\obj\Debug\Rez.csproj.AssemblyReference.cache
+C:\Yazılım Ders\Ders9\Rez\Rez\obj\Debug\Rez.csproj.SuggestedBindingRedirects.cache
+C:\Yazılım Ders\Ders9\Rez\Rez\obj\Debug\Rez.Form1.resources
+C:\Yazılım Ders\Ders9\Rez\Rez\obj\Debug\Rez.Properties.Resources.resources
+C:\Yazılım Ders\Ders9\Rez\Rez\obj\Debug\Rez.csproj.GenerateResource.cache
+C:\Yazılım Ders\Ders9\Rez\Rez\obj\Debug\Rez.csproj.CoreCompileInputs.cache
+C:\Yazılım Ders\Ders9\Rez\Rez\obj\Debug\Rez.exe
+C:\Yazılım Ders\Ders9\Rez\Rez\obj\Debug\Rez.pdb
+C:\Users\berka\Downloads\WindowsFormsOtelRez-main\WindowsFormsOtelRez-main\Rez\Rez\bin\Debug\Rez.exe.config
+C:\Users\berka\Downloads\WindowsFormsOtelRez-main\WindowsFormsOtelRez-main\Rez\Rez\bin\Debug\Rez.exe
+C:\Users\berka\Downloads\WindowsFormsOtelRez-main\WindowsFormsOtelRez-main\Rez\Rez\bin\Debug\Rez.pdb
+C:\Users\berka\Downloads\WindowsFormsOtelRez-main\WindowsFormsOtelRez-main\Rez\Rez\obj\Debug\Rez.csproj.AssemblyReference.cache
+C:\Users\berka\Downloads\WindowsFormsOtelRez-main\WindowsFormsOtelRez-main\Rez\Rez\obj\Debug\Rez.csproj.SuggestedBindingRedirects.cache
+C:\Users\berka\Downloads\WindowsFormsOtelRez-main\WindowsFormsOtelRez-main\Rez\Rez\obj\Debug\Rez.Form1.resources
+C:\Users\berka\Downloads\WindowsFormsOtelRez-main\WindowsFormsOtelRez-main\Rez\Rez\obj\Debug\Rez.Properties.Resources.resources
+C:\Users\berka\Downloads\WindowsFormsOtelRez-main\WindowsFormsOtelRez-main\Rez\Rez\obj\Debug\Rez.csproj.GenerateResource.cache
+C:\Users\berka\Downloads\WindowsFormsOtelRez-main\WindowsFormsOtelRez-main\Rez\Rez\obj\Debug\Rez.csproj.CoreCompileInputs.cache
+C:\Users\berka\Downloads\WindowsFormsOtelRez-main\WindowsFormsOtelRez-main\Rez\Rez\obj\Debug\Rez.exe
+C:\Users\berka\Downloads\WindowsFormsOtelRez-main\WindowsFormsOtelRez-main\Rez\Rez\obj\Debug\Rez.pdb
