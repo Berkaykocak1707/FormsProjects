@@ -45,24 +45,23 @@ namespace Rez
             odaBox2.Items.Add("2-4 Kişilik odalar");
             odaBox2.Items.Add("4+ Kişilik odalar");
 
-            kisBox1.Items.Add("1");
-            kisBox1.Items.Add("2");
-            kisBox1.Items.Add("3");
-            kisBox1.Items.Add("4");
-            kisBox1.Items.Add("5+");
+            string[] kisi = { "1", "2", "3", "4", "5", "6+" };
+            foreach (var item in kisi)
+            {
+                kisBox1.Items.Add(item);
+            }
 
-            cocuk2.Items.Add("1");
-            cocuk2.Items.Add("2");
-            cocuk2.Items.Add("3");
-            cocuk2.Items.Add("4");
-            cocuk2.Items.Add("5+");
+            string[] cocuksay = { "1", "2" ,"3","4","5","6+"};
+            foreach (var item in cocuksay)
+            {
+                cocuk2.Items.Add(item);
+            }
 
-            ulk3.Items.Add("Türkiye");
-            ulk3.Items.Add("Almanya");
-            ulk3.Items.Add("İtalya");
-            ulk3.Items.Add("İngiltere");
-            ulk3.Items.Add("Diğer");
-            
+            string[] ulke = { "Türkiye", "Almanya", "İtalya", "İngiltere", "Belçika", "Diğer" };
+            foreach (string item in ulke)
+            {
+                ulk3.Items.Add($"{item}");
+            }
 
 
         }
@@ -184,7 +183,7 @@ namespace Rez
             ulk3.SelectedItems.Clear();
             cocuk2.SelectedItems.Clear();
             notBox4.Text= string.Empty;
-            label1_Click(sender, e);
+            //label1_Click(sender, e);
 
         }
     }
