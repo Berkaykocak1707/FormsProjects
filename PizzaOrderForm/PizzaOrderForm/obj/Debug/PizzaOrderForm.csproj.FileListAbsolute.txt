@@ -1,0 +1,11 @@
+C:\Yazılım Ders\Ders9\PizzaOrderForm\PizzaOrderForm\bin\Debug\PizzaOrderForm.exe.config
+C:\Yazılım Ders\Ders9\PizzaOrderForm\PizzaOrderForm\bin\Debug\PizzaOrderForm.exe
+C:\Yazılım Ders\Ders9\PizzaOrderForm\PizzaOrderForm\bin\Debug\PizzaOrderForm.pdb
+C:\Yazılım Ders\Ders9\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.csproj.AssemblyReference.cache
+C:\Yazılım Ders\Ders9\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.csproj.SuggestedBindingRedirects.cache
+C:\Yazılım Ders\Ders9\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.Form1.resources
+C:\Yazılım Ders\Ders9\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.Properties.Resources.resources
+C:\Yazılım Ders\Ders9\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.csproj.GenerateResource.cache
+C:\Yazılım Ders\Ders9\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.csproj.CoreCompileInputs.cache
+C:\Yazılım Ders\Ders9\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.exe
+C:\Yazılım Ders\Ders9\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.pdb
